@@ -1,0 +1,146 @@
+ /* ASSIGNMENT1 */
+
+.ass-1{
+    text-align: center;
+    color: brown;
+}
+
+.ass-1 h1{
+        font-size: 40px;
+        font-family: ateraforza;
+        color: black;
+}
+
+.ass-1 h2{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+}
+/* ASSIGNMENT2 */
+
+.ass-1 p{
+    font-size: 30PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h-1{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    font-family: nestcopper;
+}
+.ass-2{
+    font-size: 10px;
+    text-align: center;
+    border: 5px  dashed;
+    margin-left: 40px;
+    margin-right: 30px;
+    margin-top: 50px;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ass-2 p{
+    border: 5px solid black;
+    height: 100px;
+    font-size: large;
+}
+/* ASSIGNMENT3 */
+
+.ass-3{
+    text-align: center;
+    font-family: nestcopper;
+    color: black;
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 30px;
+    font-size: 30px;
+
+}
+nav
+{
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+i{
+    float: left;
+}
+
+
+i{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+a{
+    text-decoration: none;
+    font-family: nestcopper ;
+
+}
+ a:hover{
+    background-color: rgba( 0,255,0));
+    color: white;
+    padding: 10px;
+}
+a:link{
+ color: #d90166;
+}
+a:active{
+    color: green;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: warriotech;
+    color: maroon;
+}
+
+.btn{
+    margin-left: 60px;
+    font-size: 50px;
+    border-radius: 500px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 80px;
+    background-color: rgb(230, 12, 12);
+    color: white;
+}
+.btn:hover{
+    background-color: aqua;
+    color: black;
+}
+.btn:active{
+    color: black;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: burlywood;
+}
+.form{
+    border: 5px dotted black;
+
+}
+BODY{
+    background-color: darkgray;
+    
+}
+
+
+
